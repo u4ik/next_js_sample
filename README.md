@@ -1,0 +1,1 @@
+Simple test using NextJS + React.
